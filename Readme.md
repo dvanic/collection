@@ -1,5 +1,8 @@
 ## Collection
 
+### RLadies online tutorials metapage
+- From a twitter thread in 2020 for International womens day: [shiny app here](https://yabellini.shinyapps.io/RLadiesLesson/)
+
 ### R books that use bookdown (freely available online)
 
 - [A ModernDive into R and the tidyverse(Nov 2019](https://moderndive.com/index.html)
