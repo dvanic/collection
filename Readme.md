@@ -13,3 +13,8 @@
 
 ### Other cool R stuff
 - [Data science with R: A robust toolkit for psychological research - Danielle Navarro](https://djnavarro.github.io/robust-tools/)
+
+
+### Online courses register (aka other people's workshops)
+#### Using R
+- [Data Science for ecologists and environmental scientists](https://ourcodingclub.github.io/course)
