@@ -9,7 +9,16 @@
   - Has some interesting chapters on basic regression and statistical inference
 - [Introduction to Data Science - Tiffany Timbers](https://ubc-dsci.github.io/introduction-to-datascience/index.html)
   - Tidyverse intro plus some basic modelling for prediction
-  
+ - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+  - Amazing book on interpretable machine learning methods
+ - [Data visualisation by Kieran Heily](https://socviz.co/index.html#preface)
+  - Great resource on HOW to properly make plots - a very enjoyable read!
+
+### Time series stuff
+
+- [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
+- [Prophet, cool FB algorithm, in R and python](https://facebook.github.io/prophet/)
+
 
 ### Other cool R stuff
 - [Data science with R: A robust toolkit for psychological research - Danielle Navarro](https://djnavarro.github.io/robust-tools/)
