@@ -18,6 +18,7 @@
 
 - [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
 - [Prophet, cool FB algorithm, in R and python](https://facebook.github.io/prophet/)
+- [M5 forecasting competition](https://www.kaggle.com/c/m5-forecasting-accuracy)
 
 
 ### Other cool R stuff
