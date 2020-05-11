@@ -1,5 +1,8 @@
 ## Collection
 
+### Statistics stuff
+- [A resource for experimental psychologists on using R for statistical analyses](https://ademos.people.uic.edu/index.html)
+
 ### RLadies online tutorials metapage
 - From a twitter thread in 2020 for International womens day: [shiny app here](https://yabellini.shinyapps.io/RLadiesLesson/)
 
@@ -13,12 +16,24 @@
   - Amazing book on interpretable machine learning methods
  - [Data visualisation by Kieran Heily](https://socviz.co/index.html#preface)
   - Great resource on HOW to properly make plots - a very enjoyable read!
+  
+### Bayesian stuff
+- [Doing Bayesian Data Analysis - tidy](https://bookdown.org/content/3686/)
+- [Inspiration: JASP training](https://jasp-stats.org/workshops/)
+- [This (long) blog post: Applied Bayesian Statistics Using Stan and R](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/applied-bayesian-statistics/)
+- [The STAN page](https://mc-stan.org/users/documentation/tutorials.html)
+- [Applied introduction to Bayesian estimation methods for the uninitiated](https://m-clark.github.io/bayesian-basics/preface.html)
+- [An introduction to Bayesian modelling in Stan for economists](https://rpubs.com/jimsavage/stanintro)
+- [What people normally cover in a 3 day course](https://statmodeling.stat.columbia.edu/2016/06/28/short-course-on-bayesian-data-analysis-and-stan-19-21-july-in-nyc-2/)
 
 ### Time series stuff
 
 - [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
 - [Prophet, cool FB algorithm, in R and python](https://facebook.github.io/prophet/)
 - [M5 forecasting competition](https://www.kaggle.com/c/m5-forecasting-accuracy)
+
+### Shiny stuff
+- [This long blog post](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/shiny-apps/)
 
 
 ### Other cool R stuff
