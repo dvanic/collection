@@ -19,6 +19,7 @@
   
 ### Bayesian stuff
 - [Doing Bayesian Data Analysis - tidy](https://bookdown.org/content/3686/)
+- [This paper](https://link.springer.com/article/10.3758/s13423-016-1221-4)
 - [Inspiration: JASP training](https://jasp-stats.org/workshops/)
 - [This (long) blog post: Applied Bayesian Statistics Using Stan and R](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/applied-bayesian-statistics/)
 - [The STAN page](https://mc-stan.org/users/documentation/tutorials.html)
