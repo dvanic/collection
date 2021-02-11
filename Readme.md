@@ -16,6 +16,10 @@
 - https://www.datasciencecentral.com/profiles/blogs/credit-risk-prediction-using-artificial-neural-network-algorithm
 - https://www.datasciencecentral.com/profiles/blogs/5-questions-to-prepare-you-for-your-next-data-science-interview
 	https://www.datasciencecentral.com/profiles/blogs/artificial-neural-networks-part1
+	
+### Linear modelling - complex
+- https://bookdown.org/ripberjt/labbook/multivariable-linear-regression.html
+- https://bookdown.org/mrwhalen/bayes_book/mcmcglmm.html
 
 ### RLadies online tutorials metapage
 - From a twitter thread in 2020 for International womens day: [shiny app here](https://yabellini.shinyapps.io/RLadiesLesson/)
