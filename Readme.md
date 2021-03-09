@@ -26,6 +26,10 @@
 
 ### Containers aka Docker etc
 - CyVerse workshop materials: https://learning.cyverse.org/projects/cyverse-container-camp/en/latest/docker/dockerintro.html
+- YouTube links recommended on Twitter: 
+	- https://www.youtube.com/watch?v=lfG8cTqRRNA
+	- https://www.youtube.com/watch?v=bGwjO07DmAY
+	- hub.docker.com/u/rocker
 
 ### R books that use bookdown (freely available online)
 
