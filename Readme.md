@@ -1,5 +1,8 @@
 ## Collection
 
+## Cool R packages
+- [Compare between two groups with ggplot and stats tests](https://indrajeetpatil.github.io/ggstatsplot/articles/web_only/ggbetweenstats.html)
+
 ### Statistics stuff
 - [A resource for experimental psychologists on using R for statistical analyses](https://ademos.people.uic.edu/index.html)
 - Basic stats review course w/Python https://www.coursera.org/specializations/data-analysis
